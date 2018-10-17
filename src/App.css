@@ -1,0 +1,10 @@
+body{
+}
+
+.MuiTab-textColorPrimary-193.MuiTab-selected-195{
+color: rgba(0, 0, 0, 0.54)!important;
+}
+.TabIndicator-colorPrimary-203 {
+background-color: #069cab!important;
+background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(2, 0, 36) 0%, rgb(9, 121, 118) 0%, rgb(0, 212, 255) 61%) repeat scroll 0% 0%;
+}
